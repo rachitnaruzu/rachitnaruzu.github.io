@@ -1,38 +1,49 @@
 .user-icon {
-	height:80%;
-	width:100%;
+	
+}
+
+.homepad {
+    padding-top:150px;
+    
 }
 
 .user-icon img {
-	height:125px;
-	width:125px;	
-	margin-top:10%;
-	margin-left: 18%;
+	height:160px;
+	width:160px;	
+	/*margin-top:10%;
+	margin-left: 18%;*/
 	border-radius:100px;
 }
 
 .icon-link-group {
 	width:100%;
-	height:20%;
+	height:90px;
+	padding-top:20px;
+	padding-bottom:20px;
 	/*border-style:solid;
 	border-width: 2px;
 	border-radius:5px;*/
 }
 
-.center-group {
+/*.center-group {
 	margin-top:10%;
 	margin-left:45%;
 	height:225px;
 	width:200px;
-}
+}*/
 
-.icon-link a img {
-	float:left;
-	margin-top:3px;
-	margin-left:8px;
-}
-
-.icon-link a img {
+.icon-link-group a img {
 	height:40px;
-	width:40px;
+	width:40px; 
 }
+
+.icon-link-group a span {
+        margin-left: 5px;
+	font-size: 30px;
+        color: black;
+        vertical-align: middle;
+}
+
+/*.icon-link a img {
+	
+}*/
